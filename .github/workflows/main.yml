@@ -61,7 +61,7 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: smart2004/taski_backend:latest 
+          tags: rubinav/taski_backend:latest 
 
   frontend_tests:
     runs-on: ubuntu-latest
